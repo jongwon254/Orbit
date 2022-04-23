@@ -1,3 +1,5 @@
+![solar-system](https://user-images.githubusercontent.com/36485235/164885917-9dded13d-89e2-40ff-8ee1-681e30126a64.png)
+
 # Orbit
 Simulation of the solar system with real physics and astronomical values in scale.
 
